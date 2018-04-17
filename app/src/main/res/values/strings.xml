@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BehaviorCenter</string>
+    <string name="scale_up_show_behavior">first.winning.com.behaviorcenter.MyBehavior</string>
+</resources>
